@@ -1,0 +1,30 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .amount {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+
+  .currency {
+    color: rgb(180, 180, 180);
+    font-size: 18px;
+  }
+
+  .gain {
+    color: rgb(6, 189, 6);
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .time-elapsed {
+    color: rgb(180, 180, 180);
+    font-size: 18px;
+  }
+
+  .loss {
+    color: rgb(252, 83, 83);
+  }

@@ -1,0 +1,59 @@
+.first-name {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 100px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    display: inline-block;
+    border-radius: 10px;
+    border: solid;
+    border-width: 1px;
+    color: rgb(146, 146, 146);
+}
+
+.last-name {
+    padding-left: 10px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 100px;
+    margin-left: 5px;
+    margin-bottom: 8px;
+    display: inline-block;
+    border-radius: 10px;
+    border: solid;
+    border-width: 1px;
+    color: rgb(146, 146, 146);
+}
+
+.email {
+    padding-left: 10px;
+    padding-right: 48px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    width: 200px;
+    border-radius: 10px;
+    border: solid;
+    display: block;
+    border-width: 1px;
+    color: rgb(146, 146, 146);
+}
+
+.signup {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: 15px;
+}

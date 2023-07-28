@@ -1,0 +1,28 @@
+p {
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .username {
+    font-weight: bold;
+  }
+
+  .user-tag {
+    color: rgb(161, 161, 161);
+    font-weight: normal;
+  }
+
+  .post-text {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .tag {
+    color: rgb(60, 60, 255);
+  }
+
+  .tag:hover {
+    cursor: pointer;
+  }
